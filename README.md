@@ -8,7 +8,6 @@ A full-stack Todo Application built with MERN stack (MongoDB, Express, React, No
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Reference](#api-reference)
-- [Project Structure](#project-structure)
 
 ## Features
 - User authentication (register, login, logout)
@@ -28,5 +27,11 @@ A full-stack Todo Application built with MERN stack (MongoDB, Express, React, No
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/todo-app.git
-cd todo-app
+git clone https://github.com/oatwarat/todo-application.git
+cd todo-application
+```
+
+Install server dependencies:
+```bash
+npm install
+```
