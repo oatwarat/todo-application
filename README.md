@@ -45,7 +45,6 @@ cd ..
 
 Create environment variables:
 ```bash
-cd server
 touch .env
 ```
 
